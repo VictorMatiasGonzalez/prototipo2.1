@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35731.53
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Visual", "Francos\Visual.csproj", "{444F62CE-3209-4F34-85E3-074F0F201D93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dominio", "Dominio\Dominio.csproj", "{7B5D9893-18DB-4B70-AB72-215D6413B69A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Negocio", "Negocio\Negocio.csproj", "{88A9E1F5-7B97-4AF0-A542-F8B02081C9F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{444F62CE-3209-4F34-85E3-074F0F201D93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{444F62CE-3209-4F34-85E3-074F0F201D93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{444F62CE-3209-4F34-85E3-074F0F201D93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{444F62CE-3209-4F34-85E3-074F0F201D93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B5D9893-18DB-4B70-AB72-215D6413B69A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B5D9893-18DB-4B70-AB72-215D6413B69A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B5D9893-18DB-4B70-AB72-215D6413B69A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B5D9893-18DB-4B70-AB72-215D6413B69A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88A9E1F5-7B97-4AF0-A542-F8B02081C9F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88A9E1F5-7B97-4AF0-A542-F8B02081C9F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88A9E1F5-7B97-4AF0-A542-F8B02081C9F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88A9E1F5-7B97-4AF0-A542-F8B02081C9F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B17F6DFF-BEE0-47FB-B186-68899134AFBA}
+	EndGlobalSection
+EndGlobal
